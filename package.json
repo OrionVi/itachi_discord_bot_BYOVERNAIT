@@ -1,0 +1,35 @@
+{
+  "name": "Itachi-Uchiha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^3.0.0",
+    "aki-api": "^5.1.1",
+    "anime-info": "^1.0.7",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.3.1",
+    "espchatbotapi": "^1.3.15",
+    "express": "^4.17.1",
+    "google-it": "^1.5.0",
+    "humanize-duration": "^3.23.1",
+    "mal-scraper": "^2.7.1",
+    "marsnpm": "^0.5.1",
+    "math-expression-evaluator": "^1.2.22",
+    "mech-aki": "^0.1.4",
+    "megadb": "^3.4.0",
+    "memejs": "^1.2.3",
+    "mongoose": "^5.10.1",
+    "narutoimage": "^1.0.0",
+    "node-fetch": "^2.6.0",
+    "superagent": "^6.1.0",
+    "swiftcord": "^2.1.3",
+    "wtf_wikipedia": "^8.4.0"
+  }
+}
